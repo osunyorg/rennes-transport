@@ -2,6 +2,11 @@
 
 baseURL: https://transport.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 369609eb-26dc-4b0e-8bc7-0636161740b9
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
