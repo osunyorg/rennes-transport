@@ -1,11 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Le réseau star
-  target: "/le-reseau-star/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/le-reseau-star"
-  file: content/fr/pages/le-reseau-star/_index.html
+items: []
 
