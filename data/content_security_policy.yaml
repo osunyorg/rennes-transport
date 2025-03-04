@@ -6,3 +6,8 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "mviewer.sig.rennesmetropole.fr"
+  - "www.w3.org"
+  - "public.sig.rennesmetropole.fr"
+  - "fonts.googleapis.com"
+  - "mviewer.netlify.app"
+  - "app.sig.rennesmetropole.fr"
