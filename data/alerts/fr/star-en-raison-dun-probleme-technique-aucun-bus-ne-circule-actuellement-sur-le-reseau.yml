@@ -1,8 +1,8 @@
 ---
 id: 5c300dd2-0fa4-41c6-906e-ea3a5735fad1
 title: >-
-  STAR : en raison d'un problème technique, aucun bus ne circule actuellement sur le réseau
-level: info
+  STAR : en raison d'un problème technique, aucun bus ne circule actuellement sur le réseau.
+level: warning
 content: >-
   <p>Les lignes de métro fonctionnent normalement.</p>
 button:
